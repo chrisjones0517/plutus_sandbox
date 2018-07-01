@@ -4,6 +4,6 @@ This is a just a basic file structure for development purposes. The self-signed 
 
 The link below will provide instructions to allow Chrome to trust the self-signed certificate. Once the link is clicked, scroll down toward the bottom of the page to find the steps to trust the certificate.
 
-## Note: The instructions provided below are for Windows users. All others will need to locate the analogous procedure for their respective operating systems.
+#### Note: The instructions provided below are for Windows users. All others will need to locate the analogous procedure for their respective operating systems.
 
 [directions](https://stackoverflow.com/questions/21397809/create-a-trusted-self-signed-ssl-cert-for-localhost-for-use-with-express-node)
